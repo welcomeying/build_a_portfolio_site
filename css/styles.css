@@ -1,0 +1,39 @@
+body {
+	color:#2d3c49;
+	font-family:'Raleway', sans-serif;
+
+}
+
+.text-muted {
+	color:#7d97ad;
+}
+
+.text-thin {
+	font-weight:200;
+}
+
+.text-normal {
+	font-weight:400;
+}
+
+.super-title {
+	font-size:60px;
+}
+
+.extra-margin {
+	margin-top:20px;
+}
+
+.logo-width {
+	width:20%;
+}
+
+.article-img {
+	height:auto;
+	width:100%;
+}
+
+#divider {
+	height:5px;
+	background-color:#7d97ad;
+}
